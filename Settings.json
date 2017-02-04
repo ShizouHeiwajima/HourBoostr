@@ -1,0 +1,22 @@
+{
+  "HideToTrayAutomatically": true,
+  "CheckForUpdates": true,
+  "Accounts": [
+    {
+      "Details": {
+        "Username": "hxludkqn",
+        "Password": "l0qDPQK6C0v",
+        "LoginKey": "ujD3GGXIM/o5aPeZiwA"
+      },
+      "ShowOnlineStatus": true,
+      "ConnectToSteamCommunity": true,
+      "RestartGamesEveryThreeHours": true,
+      "JoinSteamGroup": true,
+      "IgnoreAccount": false,
+      "ChatResponse": "",
+      "Games": [
+        440
+      ]
+    }
+  ]
+}
